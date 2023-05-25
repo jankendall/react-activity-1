@@ -1,0 +1,8 @@
+@import 'bootstrap/dist/css/bootstrap.css';
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+body {
+  font-family: 'Oswald', sans-serif;
+  background: linear-gradient(to left, #2c3d75, #ffffff);
+}
+
+
